@@ -71,8 +71,8 @@ Be aware, that the names of the `.bisign` and `.bikey` files depend on the lates
 
 ## Naming conventions
 For standardisation between class names and to prevent any possible future conflicts with class names the following naming convention has been developed:
-- for code: ONI_Core
-- for presentation: ONI Core - {Addon Name}
+- for code: ENC_Core
+- for presentation: Enclave Core - {Addon Name}
 
 ## Credits
 
